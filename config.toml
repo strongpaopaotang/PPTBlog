@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "PaoPaoTang's Blog"
-baseurl = "https://strongpaopaotang.github.io"
+baseurl = "https://strongpaopaotang.github.io/PPTBlog/"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "docs"
