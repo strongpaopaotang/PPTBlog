@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PaoPaoTang&#39;s Blog</title>
+    <link>https://strongpaopaotang.github.io/index.xml</link>
+    <description>Recent content on PaoPaoTang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2017 11:22:54 +0800</lastBuildDate>
+    <atom:link href="https://strongpaopaotang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>https://strongpaopaotang.github.io/post/first/</link>
+      <pubDate>Thu, 06 Apr 2017 11:22:54 +0800</pubDate>
+      
+      <guid>https://strongpaopaotang.github.io/post/first/</guid>
+      <description>
+
+&lt;h3 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://strongpaopaotang.github.io/about/</link>
+      <pubDate>Thu, 06 Apr 2017 11:22:43 +0800</pubDate>
+      
+      <guid>https://strongpaopaotang.github.io/about/</guid>
+      <description>
+
+&lt;h3 id=&#34;my-name-is-daisy-lai&#34;&gt;My Name is Daisy Lai.&lt;/h3&gt;
+
+&lt;h2 id=&#34;i-m-glad-to-join-blog-world&#34;&gt;I&amp;rsquo;m glad to join Blog world.&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
