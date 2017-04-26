@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PaoPaoTang&#39;s Blog</title>
-    <link>https://pptblog/index.xml</link>
+    <link>https://strongpaopaotang.github.io/PPTBlog/index.xml</link>
     <description>Recent content on PaoPaoTang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2017 11:22:54 +0800</lastBuildDate>
-    <atom:link href="https://pptblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://strongpaopaotang.github.io/PPTBlog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>https://pptblog/post/first/</link>
+      <link>https://strongpaopaotang.github.io/PPTBlog/post/first/</link>
       <pubDate>Thu, 06 Apr 2017 11:22:54 +0800</pubDate>
       
-      <guid>https://pptblog/post/first/</guid>
+      <guid>https://strongpaopaotang.github.io/PPTBlog/post/first/</guid>
       <description>
 
 &lt;h3 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h3&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>about</title>
-      <link>https://pptblog/about/</link>
+      <link>https://strongpaopaotang.github.io/PPTBlog/about/</link>
       <pubDate>Thu, 06 Apr 2017 11:22:43 +0800</pubDate>
       
-      <guid>https://pptblog/about/</guid>
+      <guid>https://strongpaopaotang.github.io/PPTBlog/about/</guid>
       <description>
 
 &lt;h3 id=&#34;my-name-is-daisy-lai&#34;&gt;My Name is Daisy Lai.&lt;/h3&gt;
