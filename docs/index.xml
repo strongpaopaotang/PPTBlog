@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PaoPaoTang&#39;s Blog</title>
+    <title>Bubble Nest</title>
     <link>https://strongpaopaotang.github.io/PPTBlog/index.xml</link>
-    <description>Recent content on PaoPaoTang&#39;s Blog</description>
+    <description>Recent content on Bubble Nest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 11:22:54 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 13:30:49 +0800</lastBuildDate>
     <atom:link href="https://strongpaopaotang.github.io/PPTBlog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>first</title>
-      <link>https://strongpaopaotang.github.io/PPTBlog/post/first/</link>
-      <pubDate>Thu, 06 Apr 2017 11:22:54 +0800</pubDate>
+      <title>Apple_Article</title>
+      <link>https://strongpaopaotang.github.io/PPTBlog/post/Apple_Article/</link>
+      <pubDate>Thu, 27 Apr 2017 13:30:49 +0800</pubDate>
       
-      <guid>https://strongpaopaotang.github.io/PPTBlog/post/first/</guid>
-      <description>
-
-&lt;h3 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h3&gt;
+      <guid>https://strongpaopaotang.github.io/PPTBlog/post/Apple_Article/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Try some interesting emoji
+:monkey:&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>about</title>
-      <link>https://strongpaopaotang.github.io/PPTBlog/about/</link>
-      <pubDate>Thu, 06 Apr 2017 11:22:43 +0800</pubDate>
+      <title>welcome</title>
+      <link>https://strongpaopaotang.github.io/PPTBlog/welcome/</link>
+      <pubDate>Thu, 27 Apr 2017 11:44:25 +0800</pubDate>
       
-      <guid>https://strongpaopaotang.github.io/PPTBlog/about/</guid>
+      <guid>https://strongpaopaotang.github.io/PPTBlog/welcome/</guid>
       <description>
 
-&lt;h3 id=&#34;my-name-is-daisy-lai&#34;&gt;My Name is Daisy Lai.&lt;/h3&gt;
-
-&lt;h2 id=&#34;i-m-glad-to-join-blog-world&#34;&gt;I&amp;rsquo;m glad to join Blog world.&lt;/h2&gt;
+&lt;h3 id=&#34;泡泡糖的小窝记录-日常小事-无聊琐事-仅供以后回忆&#34;&gt;泡泡糖的小窝记录 日常小事 无聊琐事 仅供以后回忆&lt;/h3&gt;
 </description>
     </item>
     
