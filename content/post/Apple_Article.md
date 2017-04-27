@@ -6,10 +6,10 @@ tags = ["English"]
 
 +++
 
-+ Try some interesting emoji 
-++ failure
+##### record the day of work life
+##### my dream money love food books games sights 
 
-+++ Never Never forget publish
+### Never Never forget publish
 
 
 
