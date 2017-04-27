@@ -2,7 +2,7 @@
 <ul class="sitetaglist">
     {{ range first 10 .Site.Taxonomies.tags.ByCount }}
         {{ if ge .Count 1 }}
-            <li><a href="">{{ .Name }} ({{ .Count }})</a></li>
+            <li><a href="tags/{{.Name}}">{{ .Name }} ({{ .Count }})</a></li>
         {{ end }}
     {{ end }}
 </ul>
