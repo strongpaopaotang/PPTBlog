@@ -2,18 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://strongpaopaotang.github.io/PPTBlog/post/0.1Study_Powershell/</loc>
+    <lastmod>2017-04-28T15:10:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://strongpaopaotang.github.io/PPTBlog/welcome/</loc>
+    <lastmod>2017-04-28T11:44:25+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://strongpaopaotang.github.io/PPTBlog/post/Apple_Article/</loc>
     <lastmod>2017-04-27T13:30:49+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://strongpaopaotang.github.io/PPTBlog/welcome/</loc>
-    <lastmod>2017-04-27T11:44:25+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://strongpaopaotang.github.io/PPTBlog/</loc>
-    <lastmod>2017-04-27T13:30:49+08:00</lastmod>
+    <lastmod>2017-04-28T15:10:38+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,7 +41,19 @@
   
   <url>
     <loc>https://strongpaopaotang.github.io/PPTBlog/post/</loc>
-    <lastmod>2017-04-27T13:30:49+08:00</lastmod>
+    <lastmod>2017-04-28T15:10:38+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://strongpaopaotang.github.io/PPTBlog/tags/powershell/</loc>
+    <lastmod>2017-04-28T15:10:38+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://strongpaopaotang.github.io/PPTBlog/categories/powershell/</loc>
+    <lastmod>2017-04-28T15:10:38+08:00</lastmod>
     <priority>0</priority>
   </url>
   

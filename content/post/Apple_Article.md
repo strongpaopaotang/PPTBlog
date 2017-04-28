@@ -6,16 +6,15 @@ tags = ["English"]
 
 +++
 
-##### record the day of work life
-##### my dream money love food books games sights 
+### Some words and phrases
 
-### Never Never forget publish
++ in conjunction with 配合/与...一起（做、用）
+  - conjunction 连词；结合
 
-+L Love
-+E Enterprise
-+F Family
-+M Money
-+S Sex 
++ specifier 指示符
+
++ leverage 杠杆
+
 
 
 

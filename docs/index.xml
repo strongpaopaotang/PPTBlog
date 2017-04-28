@@ -6,8 +6,58 @@
     <description>Recent content on Bubble Nest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Apr 2017 13:30:49 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 15:10:38 +0800</lastBuildDate>
     <atom:link href="https://strongpaopaotang.github.io/PPTBlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>0.1Study_Powershell</title>
+      <link>https://strongpaopaotang.github.io/PPTBlog/post/0.1Study_Powershell/</link>
+      <pubDate>Fri, 28 Apr 2017 15:10:38 +0800</pubDate>
+      
+      <guid>https://strongpaopaotang.github.io/PPTBlog/post/0.1Study_Powershell/</guid>
+      <description>
+
+&lt;h3 id=&#34;from-windows-powershellcookbook&#34;&gt;From Windows:PowershellCookbook&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Take a tour of PowerShell&amp;rsquo;s core features, including the command model, object-based pipleline, and ubiquitous scripting&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Learn PowerShell fundatmentals,such as the interactive shell ad fundatmental pipleline and object concepts&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Perform common tasks that involve working with files, Internet-connected scripts, user interaction, and more&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Solve tasks in systems an d enterprise managemnet, such as working with Active Directory, the filesystem, the registry, event logs, processes, and services&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;Hey， Scripting Guy！blog&lt;/p&gt;
+
+&lt;p&gt;Read until 39&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://strongpaopaotang.github.io/PPTBlog/welcome/</link>
+      <pubDate>Fri, 28 Apr 2017 11:44:25 +0800</pubDate>
+      
+      <guid>https://strongpaopaotang.github.io/PPTBlog/welcome/</guid>
+      <description>
+
+&lt;h3 id=&#34;泡泡糖的小窝记录-日常小事-无聊琐事-仅供以后回忆&#34;&gt;泡泡糖的小窝记录 日常小事 无聊琐事 仅供以后回忆&lt;/h3&gt;
+
+&lt;h4 id=&#34;prediction&#34;&gt;Prediction&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;L Love&lt;/li&gt;
+&lt;li&gt;E Enterprise&lt;/li&gt;
+&lt;li&gt;F Family&lt;/li&gt;
+&lt;li&gt;M Money&lt;/li&gt;
+&lt;li&gt;S Sex&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Apple_Article</title>
@@ -17,29 +67,19 @@
       <guid>https://strongpaopaotang.github.io/PPTBlog/post/Apple_Article/</guid>
       <description>
 
-&lt;h5 id=&#34;record-the-day-of-work-life&#34;&gt;record the day of work life&lt;/h5&gt;
+&lt;h3 id=&#34;some-words-and-phrases&#34;&gt;Some words and phrases&lt;/h3&gt;
 
-&lt;h5 id=&#34;my-dream-money-love-food-books-games-sights&#34;&gt;my dream money love food books games sights&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;in conjunction with 配合/与&amp;hellip;一起（做、用）&lt;/p&gt;
 
-&lt;h3 id=&#34;never-never-forget-publish&#34;&gt;Never Never forget publish&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;conjunction 连词；结合&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 
-&lt;p&gt;+L Love
-+E Enterprise
-+F Family
-+M Money
-+S Sex&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>welcome</title>
-      <link>https://strongpaopaotang.github.io/PPTBlog/welcome/</link>
-      <pubDate>Thu, 27 Apr 2017 11:44:25 +0800</pubDate>
-      
-      <guid>https://strongpaopaotang.github.io/PPTBlog/welcome/</guid>
-      <description>
+&lt;li&gt;&lt;p&gt;specifier 指示符&lt;/p&gt;&lt;/li&gt;
 
-&lt;h3 id=&#34;泡泡糖的小窝记录-日常小事-无聊琐事-仅供以后回忆&#34;&gt;泡泡糖的小窝记录 日常小事 无聊琐事 仅供以后回忆&lt;/h3&gt;
+&lt;li&gt;&lt;p&gt;leverage 杠杆&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
