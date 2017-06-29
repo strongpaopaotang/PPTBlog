@@ -33,6 +33,9 @@
 
 &lt;p&gt;Hey， Scripting Guy！blog&lt;/p&gt;
 
+&lt;p&gt;####Tip
+Use multiple commands on a single Windows PowerShell line. Type each complete command, and then use a semicolon to separate each command.&lt;/p&gt;
+
 &lt;p&gt;Read until 39&lt;/p&gt;
 </description>
     </item>
