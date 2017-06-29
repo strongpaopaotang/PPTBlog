@@ -6,13 +6,8 @@ title = "welcome"
 
 ### 泡泡糖的小窝记录 日常小事 无聊琐事 仅供以后回忆
 
-#### Prediction
 
-+ L Love
-+ E Enterprise
-+ F Family
-+ M Money
-+ S Sex 
+
 
 
 
