@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python Learning on Bubble Nest</title>
+    <link>https://strongpaopaotang.github.io/PPTBlog/categories/python-learning/index.xml</link>
+    <description>Recent content in Python Learning on Bubble Nest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://strongpaopaotang.github.io/PPTBlog/categories/python-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>List, tuple, Dictionary</title>
+      <link>https://strongpaopaotang.github.io/PPTBlog/post/Python_Learning/</link>
+      <pubDate>Thu, 29 Jun 2017 14:49:30 +0800</pubDate>
+      
+      <guid>https://strongpaopaotang.github.io/PPTBlog/post/Python_Learning/</guid>
+      <description>
+
+&lt;h4 id=&#34;list&#34;&gt;list&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;list.append()&lt;/li&gt;
+&lt;li&gt;list.count(X)&lt;/li&gt;
+&lt;li&gt;list.extend(L)&lt;/li&gt;
+&lt;li&gt;list.index()&lt;/li&gt;
+&lt;li&gt;list.insert()&lt;/li&gt;
+&lt;li&gt;list.pop()&lt;/li&gt;
+&lt;li&gt;list.remove()&lt;/li&gt;
+&lt;li&gt;list.reverse()&lt;/li&gt;
+&lt;li&gt;list.sort()&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;a-list&#34;&gt;A list&lt;/h5&gt;
+
+&lt;p&gt;&lt;code&gt;list1 = [&amp;quot;string&amp;quot;, 1, 3, 5, &amp;quot;array&amp;quot;]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;details from &lt;a href=&#34;http://www.runoob.com/python/python-lists.html&#34;&gt;http://www.runoob.com/python/python-lists.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;tuple&#34;&gt;tuple&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;tuple&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
