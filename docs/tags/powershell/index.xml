@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Powershell on Bubble Nest</title>
-    <link>https://strongpaopaotang.github.io/PPTBlog/tags/powershell/index.xml</link>
+    <link>https://strongpaopaotang.github.io/PPTBlog/tags/powershell/</link>
     <description>Recent content in Powershell on Bubble Nest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2017 15:10:38 +0800</lastBuildDate>
     <atom:link href="https://strongpaopaotang.github.io/PPTBlog/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,7 +17,7 @@
       <guid>https://strongpaopaotang.github.io/PPTBlog/post/0.1Study_Powershell/</guid>
       <description>
 
-&lt;h3 id=&#34;from-windows-powershellcookbook&#34;&gt;From Windows:PowershellCookbook&lt;/h3&gt;
+&lt;h3 id=&#34;from-windows-powershellcookbook:368e80897647f5a5225bad7e7aa3fe10&#34;&gt;From Windows:PowershellCookbook&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Take a tour of PowerShell&amp;rsquo;s core features, including the command model, object-based pipleline, and ubiquitous scripting&lt;/p&gt;&lt;/li&gt;
@@ -28,12 +29,13 @@
 &lt;li&gt;&lt;p&gt;Solve tasks in systems an d enterprise managemnet, such as working with Active Directory, the filesystem, the registry, event logs, processes, and services&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+&lt;h3 id=&#34;reference:368e80897647f5a5225bad7e7aa3fe10&#34;&gt;Reference&lt;/h3&gt;
 
 &lt;p&gt;Hey， Scripting Guy！blog&lt;/p&gt;
 
-&lt;p&gt;####Tip
-Use multiple commands on a single Windows PowerShell line. Type each complete command, and then use a semicolon to separate each command.&lt;/p&gt;
+&lt;h4 id=&#34;tip:368e80897647f5a5225bad7e7aa3fe10&#34;&gt;Tip&lt;/h4&gt;
+
+&lt;p&gt;Use multiple commands on a single Windows PowerShell line. Type each complete command, and then use a semicolon to separate each command.&lt;/p&gt;
 
 &lt;p&gt;Read until 39&lt;/p&gt;
 </description>

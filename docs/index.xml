@@ -2,12 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bubble Nest</title>
-    <link>https://strongpaopaotang.github.io/PPTBlog/index.xml</link>
+    <link>https://strongpaopaotang.github.io/PPTBlog/</link>
     <description>Recent content on Bubble Nest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2017 14:49:30 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2018 13:51:07 +0800</lastBuildDate>
     <atom:link href="https://strongpaopaotang.github.io/PPTBlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>linux_study</title>
+      <link>https://strongpaopaotang.github.io/PPTBlog/post/linux_study/</link>
+      <pubDate>Sat, 06 Jan 2018 13:51:07 +0800</pubDate>
+      
+      <guid>https://strongpaopaotang.github.io/PPTBlog/post/linux_study/</guid>
+      <description>
+
+&lt;h3 id=&#34;linux-install-package-commandlines:73a3660132399a96528d6254cf72302a&#34;&gt;linux install package commandlines&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;apt&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;dpkg&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;find&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;man&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;more-man:73a3660132399a96528d6254cf72302a&#34;&gt;more man&lt;/h6&gt;
+</description>
+    </item>
     
     <item>
       <title>List, tuple, Dictionary</title>
@@ -17,7 +41,7 @@
       <guid>https://strongpaopaotang.github.io/PPTBlog/post/Python_Learning/</guid>
       <description>
 
-&lt;h4 id=&#34;list&#34;&gt;list&lt;/h4&gt;
+&lt;h4 id=&#34;list:b8deeb21d356cb9932723a7d9171b342&#34;&gt;list&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;list.append()&lt;/li&gt;
@@ -31,13 +55,13 @@
 &lt;li&gt;list.sort()&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&#34;a-list&#34;&gt;A list&lt;/h5&gt;
+&lt;h5 id=&#34;a-list:b8deeb21d356cb9932723a7d9171b342&#34;&gt;A list&lt;/h5&gt;
 
 &lt;p&gt;&lt;code&gt;list1 = [&amp;quot;string&amp;quot;, 1, 3, 5, &amp;quot;array&amp;quot;]&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;details from &lt;a href=&#34;http://www.runoob.com/python/python-lists.html&#34;&gt;http://www.runoob.com/python/python-lists.html&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;tuple&#34;&gt;tuple&lt;/h4&gt;
+&lt;h4 id=&#34;tuple:b8deeb21d356cb9932723a7d9171b342&#34;&gt;tuple&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;tuple&lt;/li&gt;
@@ -53,7 +77,7 @@
       <guid>https://strongpaopaotang.github.io/PPTBlog/post/0.1Study_Powershell/</guid>
       <description>
 
-&lt;h3 id=&#34;from-windows-powershellcookbook&#34;&gt;From Windows:PowershellCookbook&lt;/h3&gt;
+&lt;h3 id=&#34;from-windows-powershellcookbook:368e80897647f5a5225bad7e7aa3fe10&#34;&gt;From Windows:PowershellCookbook&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Take a tour of PowerShell&amp;rsquo;s core features, including the command model, object-based pipleline, and ubiquitous scripting&lt;/p&gt;&lt;/li&gt;
@@ -65,12 +89,13 @@
 &lt;li&gt;&lt;p&gt;Solve tasks in systems an d enterprise managemnet, such as working with Active Directory, the filesystem, the registry, event logs, processes, and services&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+&lt;h3 id=&#34;reference:368e80897647f5a5225bad7e7aa3fe10&#34;&gt;Reference&lt;/h3&gt;
 
 &lt;p&gt;Hey， Scripting Guy！blog&lt;/p&gt;
 
-&lt;p&gt;####Tip
-Use multiple commands on a single Windows PowerShell line. Type each complete command, and then use a semicolon to separate each command.&lt;/p&gt;
+&lt;h4 id=&#34;tip:368e80897647f5a5225bad7e7aa3fe10&#34;&gt;Tip&lt;/h4&gt;
+
+&lt;p&gt;Use multiple commands on a single Windows PowerShell line. Type each complete command, and then use a semicolon to separate each command.&lt;/p&gt;
 
 &lt;p&gt;Read until 39&lt;/p&gt;
 </description>
@@ -84,7 +109,7 @@ Use multiple commands on a single Windows PowerShell line. Type each complete co
       <guid>https://strongpaopaotang.github.io/PPTBlog/post/Apple_Article/</guid>
       <description>
 
-&lt;h3 id=&#34;some-words-and-phrases&#34;&gt;Some words and phrases&lt;/h3&gt;
+&lt;h3 id=&#34;some-words-and-phrases:b5a3d61403077e2b1b6d7898ccd6abd8&#34;&gt;Some words and phrases&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;in conjunction with 配合/与&amp;hellip;一起（做、用）&lt;/p&gt;
