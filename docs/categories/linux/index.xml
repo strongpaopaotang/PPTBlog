@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Bubble Nest</title>
+    <link>https://strongpaopaotang.github.io/PPTBlog/categories/linux/</link>
+    <description>Recent content in Linux on Bubble Nest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jan 2018 13:51:07 +0800</lastBuildDate>
+    <atom:link href="https://strongpaopaotang.github.io/PPTBlog/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>linux_study</title>
+      <link>https://strongpaopaotang.github.io/PPTBlog/post/linux_study/</link>
+      <pubDate>Sat, 06 Jan 2018 13:51:07 +0800</pubDate>
+      
+      <guid>https://strongpaopaotang.github.io/PPTBlog/post/linux_study/</guid>
+      <description>
+
+&lt;h3 id=&#34;linux-install-package-commandlines:73a3660132399a96528d6254cf72302a&#34;&gt;linux install package commandlines&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;apt&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;dpkg&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;find&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;man&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;more-man:73a3660132399a96528d6254cf72302a&#34;&gt;more man&lt;/h6&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
